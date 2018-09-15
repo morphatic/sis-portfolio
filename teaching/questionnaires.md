@@ -1,0 +1,7 @@
+# Pre-Semester Questionnaires
+
+During the 2009-2010 school year I was selected to be a member of the CFI Millennial Connections Madison Teaching Fellows group.  I spent the year working with Bob Brown from the Religion Department, and Laura Haas from Career and Academic Planning investigating the question of “Who are the Millennials?”  The goal of this project was to develop a deeper understanding of who are students are so that we can develop more effective pedagogical strategies to influence them.
+
+The result of this collaboration was the development of a strategy to deliver pre-semester questionnaires to students so that as a professor you can get to know your students before the first day of class.  As an added benefit, it offers professors a chance to communicate to students that you care about their learning experience and want to get to know them ahead of time.
+
+I co-facilitated a CFI workshop in the fall of 2010 to share and disseminate the results of this effort with other faculty members at JMU.  Feedback from the workshop was very positive.  I have used this technique in my classes every semester since then and have found that it accelerates by 2-3 weeks the “getting to know you” process at the beginning of the semester and more quickly creates a positive and intimate atmosphere in the class.

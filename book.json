@@ -1,0 +1,21 @@
+{
+    "title": "Morgan Benton's Application for Promotion to Professor at James Madison University",
+    "author": "Morgan C. Benton",
+    "language": "en-US",
+    "plugins": [
+        "toggle2",
+        "back-to-top-button",
+        "ga",
+        "offline",
+        "katex"
+    ],
+    "pluginsConfig": {
+        "ga": {
+            "token": "UA-763196-11"
+        }
+    },
+    "pdf": {
+        "fontFamily": "Adobe Caslon Pro",
+        "paperSize": "letter"
+    }
+}
